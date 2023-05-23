@@ -41,7 +41,7 @@ def bandpass_cnt(data, low_cut_hz, high_cut_hz, fs, filt_order=200, zero_phase=F
 
 def data_norm(data):
     """
-    对数据进行归一化
+    Problems with normalization in the preprint have been fixed.
     :param data:   ndarray ,shape[N,channel,samples]
     :return:
     """
