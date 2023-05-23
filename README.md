@@ -1,7 +1,8 @@
 # Description
 Code for paper, [SDDA](https://arxiv.org/pdf/2202.09559.pdf)
 - Provided the model required in the paper
-- todo:  upload code
+- (2023-5-23)Fixed the bug of data normalization in the preprint
+- (2023-5-23)It has largely passed peer review in Neurcomputing and is expected to appear in the next issue.
 - % Unoptimized code, under continuous updates.
 
 # Requirements
