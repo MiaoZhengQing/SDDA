@@ -1,3 +1,5 @@
+# Neurocomputing Accepted!
+
 # Description
 Code for paper, [SDDA](https://arxiv.org/pdf/2202.09559.pdf)
 - Provided the model required in the paper
